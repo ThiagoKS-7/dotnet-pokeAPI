@@ -6,11 +6,11 @@
 <h3 align="center">C# RestSharp PokeAPI Consumption</h3>
 
 <div align="center">
+
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/ThiagoKS-7/AluraRestSharpAPI-7DaysOfCode.svg)](https://github.com/ThiagoKS-7/AluraRestSharpAPI-7DaysOfCode/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ThiagoKS-7/AluraRestSharpAPI-7DaysOfCode.svg)](https://github.com/ThiagoKS-7/AluraRestSharpAPI-7DaysOfCode/pulls)
-[![License](https://img.shields.io/badge/license-GPL-3.0-blue.svg)](/LICENSE)
-
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ThiagoKS-7/AluraRestSharpAPI-7DaysOfCode.svg)](https://github.com//ThiagoKS-7/AluraRestSharpAPI-7DaysOfCode/pulls)
+[![License](https://img.shields.io/badge/license-GPL_3.0-blue.svg)](/LICENSE)  
 </div>
 
 <p align="center"> Alura's C# RestSharp Challenge
