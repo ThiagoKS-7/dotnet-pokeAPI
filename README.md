@@ -3,7 +3,7 @@
  <img width=400px height=200px src="https://github.com/ThiagoKS-7/alura-terraform-aws/assets/83460816/8e16458d-6992-4b93-93c8-49d2ad2680a6" alt="Project logo"></a>
 </p>
 
-<h3 align="center">C# RestSharp PokeAPI Consumption</h3>
+<h3 align="center">.NET PokeAPI Consumption</h3>
 
 <div align="center">
 
